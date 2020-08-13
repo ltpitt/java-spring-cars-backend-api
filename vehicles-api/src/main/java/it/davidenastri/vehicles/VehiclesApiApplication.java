@@ -1,5 +1,6 @@
 package it.davidenastri.vehicles;
 
+import it.davidenastri.vehicles.domain.car.Car;
 import it.davidenastri.vehicles.domain.manufacturer.Manufacturer;
 import it.davidenastri.vehicles.domain.manufacturer.ManufacturerRepository;
 import org.modelmapper.ModelMapper;
@@ -37,6 +38,7 @@ public class VehiclesApiApplication {
             repository.save(new Manufacturer(102, "Ford"));
             repository.save(new Manufacturer(103, "BMW"));
             repository.save(new Manufacturer(104, "Dodge"));
+
         };
     }
 
