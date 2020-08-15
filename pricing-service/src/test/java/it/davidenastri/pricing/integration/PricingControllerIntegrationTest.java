@@ -17,7 +17,7 @@ import java.util.List;
 @RunWith(SpringRunner.class)
 @SpringBootTest(webEnvironment = SpringBootTest.WebEnvironment.RANDOM_PORT)
 @AutoConfigureMockMvc
-public class DogControllerIntegrationTest {
+public class PricingControllerIntegrationTest {
 
     @LocalServerPort
     private int port;
