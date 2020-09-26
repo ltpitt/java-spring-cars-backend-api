@@ -1,4 +1,4 @@
-# Java Spring Boot Persistence
+# Java Spring Boot Cars Backend API
 > A Backend System for a Car Website.
 
 ## Prerequisites
