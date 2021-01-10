@@ -1,3 +1,9 @@
+[![build](https://github.com/ltpitt/java-spring-cars-backend-api/workflows/build/badge.svg)](https://github.com/ltpitt/java-spring-cars-backend-api/actions)
+[![GitHub Issues](https://img.shields.io/github/issues-raw/ltpitt/java-spring-cars-backend-api)](https://github.com/ltpitt/java-spring-cars-backend-api/issues)
+[![Total Commits](https://img.shields.io/github/last-commit/ltpitt/java-spring-cars-backend-api)](https://github.com/ltpitt/java-spring-cars-backend-api/commits)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/4w/ltpitt/java-spring-cars-backend-api?foo=bar)](https://github.com/ltpitt/java-spring-cars-backend-api/commits)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ltpitt/java-spring-cars-backend-api/blob/master/LICENSE)
+
 # Java Spring Boot Cars Backend API
 > A Backend System for a Car Website.
 
