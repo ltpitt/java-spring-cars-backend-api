@@ -14,7 +14,7 @@ jobs:
        with:
          java-version: 1.11
      - name: Build with Maven
-       run: mvn clean compile install -DskipTests --file pom.xml
+       run: mvn clean compile install -DskipTests --file vehicles-api/pom.xml
   test:
     runs-on: ubuntu-latest
     steps:
@@ -24,7 +24,7 @@ jobs:
         with:
           java-version: 1.11
       - name: Run unit tests
-        run: mvn test --file pom.xml
+        run: mvn test --file vehicles-api/pom.xml
   package:
     runs-on: ubuntu-latest
     steps:
